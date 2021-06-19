@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="overview">Overview</string>
+    <string name="description">Description</string>
+    <string name="stadium">Stadium</string>
+    <string name="competition">Competition</string>
+    <string name="location">Location</string>
+    <string name="year_formed">1909</string>
+</resources>
